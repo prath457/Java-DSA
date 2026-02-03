@@ -97,6 +97,36 @@ public class SwapWithTemp {
     }
 }
 
+#Print Given name in a Function 
+  public class function{
+  public statio void printMyName(String name){
+    System.out.println(name);
+    return;
+
+    public static void main(string args[]){
+      Scanner.sc = new sanner(system.in)
+        String name = sc. next();
+      printMyName(name);
+    }
+  }
+
+#Make a function to add 2 number and return the sum
+  public class function{
+  public static int addfunction(int a, int b){
+    int sum = a + b;
+    return sum;
+
+    public static void main(String args[]){
+      Scanner sc = new Scanner(System.in)
+        int a = sc nextInt();
+        int b = sc nextInt();
+
+      int sum = calculate sum(a,b);
+      System.out.println(sum);
+    }
+  }
+}
+
       
       
       
