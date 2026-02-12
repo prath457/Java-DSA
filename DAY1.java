@@ -97,7 +97,8 @@ public class SwapWithTemp {
     }
 }
 
-#Print Given name in a Function 
+7. Print Given name in a Function 
+  
   public class function{
   public statio void printMyName(String name){
     System.out.println(name);
@@ -110,7 +111,8 @@ public class SwapWithTemp {
     }
   }
 
-#Make a function to add 2 number and return the sum
+8. Make a function to add 2 number and return the sum
+  
   public class function{
   public static int addfunction(int a, int b){
     int sum = a + b;
@@ -126,6 +128,7 @@ public class SwapWithTemp {
     }
   }
 }
+9. 
 
       
       
